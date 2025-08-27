@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">slide</string>
+    <string name="image_description">Image thumbnail</string>
+    <string name="invalidate_cache_amp_reload"><![CDATA[Invalidate Cache & Reload]]></string>
+</resources>
